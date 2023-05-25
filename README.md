@@ -1,9 +1,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B31210&width=435&lines=Visitor+Welcome%F0%9F%91%80;I+am+poi44354236%2CI+from+taiwam%E2%9C%A8" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on Asia University.
-- 🌱 I’m currently teaching Deep Learning.
-- 👯 I’m looking to collaborate on AIGC.
 - 🎃來自台灣,就讀亞洲大學資訊工程學系(´･ω･`)
 - 🎃擅長語言:Python,Html,css
 - 🎃喜歡玩遊戲,聽音樂(´･ω･`)
