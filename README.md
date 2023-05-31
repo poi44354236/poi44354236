@@ -15,14 +15,14 @@
     </tr>
   </tbody>
 </table>
-<img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=htchu&style=flat-square&&label=Profile+Views&color=50A1FF">
+<img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=poi44354236&style=flat-square&&label=Profile+Views&color=50A1FF">
 
 ### Github Analytics
 <a href="https://github.com/poi44354236">
-  <img src="https://github-readme-stats.vercel.app/api?username=htchu&count_private=true&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=poi44354236&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
 ### Most Used Languages
 <a href="https://github.com/poi44354236">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htchu&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poi44354236&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
 </a>
